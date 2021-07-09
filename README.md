@@ -15,13 +15,13 @@ For this project you can use either git clone or npx degit
 
 To clone 
 ```zsh
-git clone https://github.com/darrenjamesso/Metamask-Web3-Application.git
+git clone https://github.com/darrenjamesso/Metamask-Web3-dApp.git
 ```
 
 To use degit 
 
 ```zsh
-npx degit darrenjamesso/Metamask-Web3-Application <your-app-folder>
+npx degit darrenjamesso/Metamask-Web3-dApp <your-app-folder>
 ```
 
 
